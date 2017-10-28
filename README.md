@@ -3,5 +3,5 @@
  Can be comiled using:
  
 ```shell
-$ xelatex cv.tex
+$ xelatex resume.tex
 ```
